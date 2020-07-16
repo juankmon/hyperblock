@@ -1,3 +1,6 @@
 ﻿Esta es la historia de Juan Carlos Morales
 tiene 26 años y nació en colombia 
+
 hoy hablaremos de su vida y obra maestra
+
+este es un texto con el cual voy a practicar git 
