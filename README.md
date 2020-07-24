@@ -1,4 +1,4 @@
-# hyperblock :tw-2764:
+# hyperblock :checkered_flag:
 Un blog increíble para el [curso de Git y Github](https://platzi.com/cursos/git-github/ "curso de Git y Github") de [Plantzi](https://platzi.com/ "Plantzi")
 >El curso de Git y Github de Platzi es lo que me hacia falta para triplicar mi salario y lanzarme a la industria del tejido de lana sintética con Machine Learning
 > - niñita
